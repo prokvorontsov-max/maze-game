@@ -10,4 +10,4 @@
 
 стрілка вліво = вліво
 
-![Screenshot.]()
+![Screenshot.](https://github.com/prokvorontsov-max/maze-game/blob/main/image.png)
